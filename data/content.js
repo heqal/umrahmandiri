@@ -7,7 +7,7 @@
  */
 window.UMRAH_DATA = {
   "meta": {
-    "judul": "Panduan Umrah Mandiri",
+    "judul": "Panduan Umrah Mandiri Mappiare 2026",
     "subjudul": "Itinerary 14 hari · Makkah (Hari 1–8) · Madinah (Hari 9–14)",
     "catatanKaki": "Disusun dari Buku Tuntunan Manasik Haji dan Umrah (Kemenhaj) dan pengetahuan umum. Teks Arab mohon dicek dengan buku/ustadz sebelum dihafal."
   },
